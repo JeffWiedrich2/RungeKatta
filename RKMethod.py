@@ -1,3 +1,8 @@
+#Jeffrey Wiedrich
+#07/05/2020
+#GCU CST305
+#Basically, I went ahead and used my Runge Katta code from class as a base, and then implemented the rest that we needed
+
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
